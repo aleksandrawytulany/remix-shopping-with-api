@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "MacBook",
+      "description": "An expensive computer"
+    },
+    {
+      "id": "2",
+      "title": "hp",
+      "description": "An affordable computer"
+    },
+    {
+      "id": "3",
+      "title": "ASUS",
+      "description": "A decent computer"
+    },
+    {
+      "id": "17f4a013bd4",
+      "title": "sdfg",
+      "description": "sdfgh"
+    },
+    {
+      "id": "17f4a267972",
+      "title": "sdfgh",
+      "description": "dfgyhj"
+    },
+    {
+      "id": "17f4a294109",
+      "title": "sdfg",
+      "description": "asdfg"
+    },
+    {
+      "id": "17f4a2b1a1e",
+      "title": "dfghj",
+      "description": "dfghjk"
+    },
+    {
+      "id": "17f4a2b3dd9",
+      "title": "sdfg",
+      "description": "dfghj"
+    },
+    {
+      "id": "17f4a2b58a6",
+      "title": "sdfg",
+      "description": "sdfghj"
+    }
+  ]
+}
